@@ -1,5 +1,11 @@
-### 简介
-`ESLyric`是一款为Windows平台音乐播放器`foobar2000`提供歌词下载与显示功能的歌词插件。
+### ESLyric
+
+<p align="center">
+  <a href="https://github.com/ESLyric/release/releases"><img src="https://img.shields.io/github/v/release/ESLyric/release?style=flat-square&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&&color=blue" alt="最新版本"></a>
+  <a href="https://github.com/ESLyric/release/releases"><img src="https://img.shields.io/github/downloads/ESLyric/release/total?style=flat-square&label=%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0&&color=success" alt="下载次数"></a>
+</p>
+
+一款为Windows平台音乐播放器`foobar2000`提供歌词下载与显示功能的歌词插件。
 
 #### 主要特性：
 - 支持DUI/CUI界面
